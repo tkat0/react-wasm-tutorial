@@ -1,6 +1,6 @@
 # react-wasm-tutorial
 
-This project is a simple tutorial about [How to create a React app with Rust + WebAssembly]().
+This project is a simple tutorial about [How to create a React app with Rust + WebAssembly](https://tkat0.github.io/posts/how-to-create-a-react-app-with-rust-and-wasm).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
